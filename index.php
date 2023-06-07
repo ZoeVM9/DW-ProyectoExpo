@@ -47,7 +47,7 @@ input:hover {
 			<tr>
 					<td colspan=10 width=100% align="center">
 					<br><br><br>
-					<p>Libreria</p> 
+					<p>VOYAGE</p> 
 
 				</td>	
 
